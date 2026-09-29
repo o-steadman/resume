@@ -12,3 +12,7 @@ MS, [The City College of New York](ccny.cuny.edu) \
 \
 2006 - 2010 \
 AB, [University of Chicago](uchicago.edu) 
+
+## Research interests
+
+I study sea level change during warm periods. 
